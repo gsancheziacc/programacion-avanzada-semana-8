@@ -12,7 +12,7 @@ def main():
     a = int(input())
     print("Ingrese el segundo número:")
     b = int(input())
-    print("Enter your operation:")
+    print("Selecione la operación:")
     print("+: sumar")
     print("-: restar")
     print("*: multiplicar")
